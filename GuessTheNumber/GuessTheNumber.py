@@ -14,10 +14,8 @@ while guesses<5:
     guesses+=1
     if answer>number:
         print("Your guess is too high, Try again!")
-        continue
     if answer<number:
         print("Your guess is too low, Try again!")
-        continue
     if answer==number:
         break
 if answer==number:
