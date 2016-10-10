@@ -2,7 +2,7 @@
 This repository consists of simple implementation of games
 
 1. Dragon Realm
-2. 
+2. Guess The Number
 3. Hangman
 
 ## Run
